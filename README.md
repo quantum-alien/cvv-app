@@ -1,4 +1,4 @@
-# cvv-app — CV Builder
+# CV Builder
 
 A small full-stack web app for building a CV: fill in a form (personal info,
 work experience, education, skills) and get a clean, print-ready CV page you

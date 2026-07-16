@@ -21,7 +21,6 @@ can save as a PDF straight from the browser.
   - [4. Open the app](#4-open-the-app)
 - [Everyday commands](#everyday-commands)
 - [Production build](#production-build)
-- [Publishing your own copy to GitHub](#publishing-your-own-copy-to-github)
 - [Troubleshooting](#troubleshooting)
 - [Possible improvements](#possible-improvements)
 
